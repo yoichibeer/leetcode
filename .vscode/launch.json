@@ -1,0 +1,197 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug executable 'leet_code'",
+            "cargo": {
+                "args": [
+                    "build",
+                    "--bin=leet_code",
+                    "--package=leet_code"
+                ],
+                "filter": {
+                    "name": "leet_code",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug unit tests in executable 'leet_code'",
+            "cargo": {
+                "args": [
+                    "test",
+                    "--no-run",
+                    "--bin=leet_code",
+                    "--package=leet_code"
+                ],
+                "filter": {
+                    "name": "leet_code",
+                    "kind": "bin"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug integration test 'leetcode102'",
+            "cargo": {
+                "args": [
+                    "test",
+                    "--no-run",
+                    "--test=leetcode102",
+                    "--package=leet_code"
+                ],
+                "filter": {
+                    "name": "leetcode102",
+                    "kind": "test"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug integration test 'leetcode104'",
+            "cargo": {
+                "args": [
+                    "test",
+                    "--no-run",
+                    "--test=leetcode104",
+                    "--package=leet_code"
+                ],
+                "filter": {
+                    "name": "leetcode104",
+                    "kind": "test"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug integration test 'leetcode094'",
+            "cargo": {
+                "args": [
+                    "test",
+                    "--no-run",
+                    "--test=leetcode094",
+                    "--package=leet_code"
+                ],
+                "filter": {
+                    "name": "leetcode094",
+                    "kind": "test"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug integration test 'leetcode144ptr'",
+            "cargo": {
+                "args": [
+                    "test",
+                    "--no-run",
+                    "--test=leetcode144ptr",
+                    "--package=leet_code"
+                ],
+                "filter": {
+                    "name": "leetcode144ptr",
+                    "kind": "test"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug integration test 'leetcode145'",
+            "cargo": {
+                "args": [
+                    "test",
+                    "--no-run",
+                    "--test=leetcode145",
+                    "--package=leet_code"
+                ],
+                "filter": {
+                    "name": "leetcode145",
+                    "kind": "test"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug integration test 'leetcode144'",
+            "cargo": {
+                "args": [
+                    "test",
+                    "--no-run",
+                    "--test=leetcode144",
+                    "--package=leet_code"
+                ],
+                "filter": {
+                    "name": "leetcode144",
+                    "kind": "test"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug integration test 'leetcode101'",
+            "cargo": {
+                "args": [
+                    "test",
+                    "--no-run",
+                    "--test=leetcode101",
+                    "--package=leet_code"
+                ],
+                "filter": {
+                    "name": "leetcode101",
+                    "kind": "test"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        },
+        {
+            "type": "lldb",
+            "request": "launch",
+            "name": "Debug integration test 'leetcode700'",
+            "cargo": {
+                "args": [
+                    "test",
+                    "--no-run",
+                    "--test=leetcode700",
+                    "--package=leet_code"
+                ],
+                "filter": {
+                    "name": "leetcode700",
+                    "kind": "test"
+                }
+            },
+            "args": [],
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}
