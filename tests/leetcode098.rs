@@ -21,49 +21,48 @@ pub struct Solution {}
 
 use std::cell::RefCell;
 use std::rc::Rc;
-// impl Solution {
-//     fn recursive(node: Option<Rc<RefCell<TreeNode>>>, min: i64, max: i64) -> bool {
-//         match node {
-//             None => true,
-//             Some(node) => {
-//                 let val = node.borrow().val as i64;
-//                 if val <= min || max <= val {
-//                     return false;
-//                 }
-//                 let answer = Self::recursive(node.borrow_mut().left.take(), min, val);
-//                 if !answer {
-//                     return false;
-//                 }
-//                 Self::recursive(node.borrow_mut().right.take(), val, max)
-                // // Self::recursive(node.borrow().left.clone(), min, val)
-                // //    && Self::recursive(node.borrow().right.clone(), val, max)
-//             }
-//         }
-//     }
-//     pub fn is_valid_bst(root: Option<Rc<RefCell<TreeNode>>>) -> bool {
-//         Self::recursive(root, -2147483649, 2147483648)
-//     }
+impl Solution {
+    //     fn recursive(node: Option<Rc<RefCell<TreeNode>>>, min: i64, max: i64) -> bool {
+    //         match node {
+    //             None => true,
+    //             Some(node) => {
+    //                 let val = node.borrow().val as i64;
+    //                 if val <= min || max <= val {
+    //                     return false;
+    //                 }
+    //                 let answer = Self::recursive(node.borrow_mut().left.take(), min, val);
+    //                 if !answer {
+    //                     return false;
+    //                 }
+    //                 Self::recursive(node.borrow_mut().right.take(), val, max)
+    // // Self::recursive(node.borrow().left.clone(), min, val)
+    // //    && Self::recursive(node.borrow().right.clone(), val, max)
+    //             }
+    //         }
+    //     }
+    //     pub fn is_valid_bst(root: Option<Rc<RefCell<TreeNode>>>) -> bool {
+    //         Self::recursive(root, -2147483649, 2147483648)
+    //     }
 
-fn recursive(node: Option<Rc<RefCell<TreeNode>>>, min: i64, max: i64) -> bool {
-    match node {
-        None => true,
-        Some(node) => {
-            let val = node.borrow().val as i64;
-            if val <= min || max <= val {
-                return false;
+    fn recursive(node: Option<Rc<RefCell<TreeNode>>>, min: i64, max: i64) -> bool {
+        match node {
+            None => true,
+            Some(node) => {
+                let val = node.borrow().val as i64;
+                if val <= min || max <= val {
+                    return false;
+                }
+                let answer = Self::recursive(node.borrow_mut().left.take(), min, val);
+                if !answer {
+                    return false;
+                }
+                Self::recursive(node.borrow_mut().right.take(), val, max)
             }
-            let answer = Self::recursive(node.borrow_mut().left.take(), min, val);
-            if !answer {
-                return false;
-            }
-            Self::recursive(node.borrow_mut().right.take(), val, max)
         }
     }
-}
-pub fn is_valid_bst(root: Option<Rc<RefCell<TreeNode>>>) -> bool {
-
-    Self::recursive(root, -2147483649, 2147483648)
-}
+    pub fn is_valid_bst(root: Option<Rc<RefCell<TreeNode>>>) -> bool {
+        Self::recursive(root, -2147483649, 2147483648)
+    }
 }
 
 #[cfg(test)]
