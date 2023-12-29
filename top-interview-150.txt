@@ -1,621 +1,771 @@
 Merge Sorted Array
 Solution
 Easy
+#88 ArrayTwo PointersSorting
 
 Remove Element
 Solution
 Easy
+#27 ArrayTwo Pointers
 
 Remove Duplicates from Sorted Array
 Solution
 Easy
+#26 ArrayTwo Pointers
 
 Remove Duplicates from Sorted Array II
 Solution
 Medium
+#80 ArrayTwo Pointers
 
 Majority Element
 Solution
 Easy
+#169 ArrayHash TableDivide and Conquer2+
 
 Rotate Array
 Solution
 Medium
+#189 ArrayMathTwo Pointers
 
 Best Time to Buy and Sell Stock
 Solution
 Easy
+#121 ArrayDynamic Programming
 
 Best Time to Buy and Sell Stock II
 Solution
 Medium
+#122 ArrayDynamic ProgrammingGreedy
 
 Jump Game
 Solution
 Medium
+#55 ArrayDynamic ProgrammingGreedy
 
 Jump Game II
 Solution
 Medium
+#45 ArrayDynamic ProgrammingGreedy
 
 H-Index
 Solution
 Medium
+#274 ArraySortingCounting Sort
 
 Insert Delete GetRandom O(1)
 Solution
 Medium
+#380 ArrayHash TableMath2+
 
 Product of Array Except Self
 Solution
 Medium
+#238 ArrayPrefix Sum
 
 Gas Station
 Solution
 Medium
+#134 ArrayGreedy
 
 Candy
 Solution
 Hard
+#135 ArrayGreedy
 
 Trapping Rain Water
 Solution
 Hard
+#42 ArrayTwo PointersDynamic Programming2+
 
 Roman to Integer
 Solution
 Easy
+#13 Hash TableMathString
 
 Integer to Roman
 Solution
 Medium
+#12 Hash TableMathString
 
 Length of Last Word
 Solution
 Easy
+#58 String
 
 Longest Common Prefix
 Solution
 Easy
+#14 StringTrie
 
 Reverse Words in a String
 Solution
 Medium
+#151 Two PointersString
 
 Zigzag Conversion
 Solution
 Medium
+#6 String
 
 Find the Index of the First Occurrence in a String
 Solution
 Easy
+#28 Two PointersStringString Matching
 
 Text Justification
 Solution
 Hard
+#68 ArrayStringSimulation
 
 Two Pointers
 Valid Palindrome
 Solution
 Easy
+#125 Two PointersString
 
 Is Subsequence
 Solution
 Easy
+#392 Two PointersStringDynamic Programming
 
 Two Sum II - Input Array Is Sorted
 Solution
 Medium
+#167 ArrayTwo PointersBinary Search
 
 Container With Most Water
 Solution
 Medium
+#11 ArrayTwo PointersGreedy
 
 3Sum
 Solution
 Medium
+#15 ArrayTwo PointersSorting
 
 Sliding Window
 Minimum Size Subarray Sum
 Solution
 Medium
+#209 ArrayBinary SearchSliding Window1+
 
 Longest Substring Without Repeating Characters
 Solution
 Medium
+#3 Hash TableStringSliding Window
 
 Substring with Concatenation of All Words
 Solution
 Hard
+#30 Hash TableStringSliding Window
 
 Minimum Window Substring
 Solution
 Hard
+#76 Hash TableStringSliding Window
 
 Matrix
 Valid Sudoku
 Solution
 Medium
+#36 ArrayHash TableMatrix
 
 Spiral Matrix
 Solution
 Medium
+#54 ArrayMatrixSimulation
 
 Rotate Image
 Solution
 Medium
+#48 ArrayMathMatrix
 
 Set Matrix Zeroes
 Solution
 Medium
+#73 ArrayHash TableMatrix
 
 Game of Life
 Solution
 Medium
+#289 ArrayMatrixSimulation
 
 Hashmap
 Ransom Note
 Solution
 Easy
+#383 Hash TableStringCounting
 
 Isomorphic Strings
 Solution
 Easy
+#205 Hash TableString
 
 Word Pattern
 Solution
 Easy
+#290 Hash TableString
 
 Valid Anagram
 Solution
 Easy
+#242 Hash TableStringSorting
 
 Group Anagrams
 Solution
 Medium
+#49 ArrayHash TableString1+
 
 Two Sum
 Solution
 Easy
+#1 ArrayHash Table
 
 Happy Number
 Solution
 Easy
+#202 Hash TableMathTwo Pointers
 
 Contains Duplicate II
 Solution
 Easy
+#219 ArrayHash TableSliding Window
 
 Longest Consecutive Sequence
 Solution
 Medium
+#128 ArrayHash TableUnion Find
 
 Intervals
 Summary Ranges
 Solution
 Easy
+#228 Array
 
 Merge Intervals
 Solution
 Medium
+#56 ArraySorting
 
 Insert Interval
 Solution
 Medium
+#57 Array
 
 Minimum Number of Arrows to Burst Balloons
 Solution
 Medium
+#452 ArrayGreedySorting
 
 Stack
 Valid Parentheses
 Solution
 Easy
+#20 StringStack
 
 Simplify Path
 Solution
 Medium
+#71 StringStack
 
 Min Stack
 Solution
 Medium
+#155 StackDesign
 
 Evaluate Reverse Polish Notation
 Solution
 Medium
+#150 ArrayMathStack
 
 Basic Calculator
 Solution
 Hard
+#224 MathStringStack1+
 
 Linked List
 Linked List Cycle
 Solution
 Easy
+#141 Hash TableLinked ListTwo Pointers
 
 Add Two Numbers
 Solution
 Medium
+#2 Linked ListMathRecursion
 
 Merge Two Sorted Lists
 Solution
 Easy
+#21 Linked ListRecursion
 
 Copy List with Random Pointer
 Solution
 Medium
+#138 Hash TableLinked List
 
 Reverse Linked List II
 Solution
 Medium
+#92 Linked List
 
 Reverse Nodes in k-Group
 Solution
 Hard
+#25 Linked ListRecursion
 
 Remove Nth Node From End of List
 Solution
 Medium
+#19 Linked ListTwo Pointers
 
 Remove Duplicates from Sorted List II
 Solution
 Medium
+#82 Linked ListTwo Pointers
 
 Rotate List
 Solution
 Medium
+#61 Linked ListTwo Pointers
 
 Partition List
 Solution
 Medium
+#86 Linked ListTwo Pointers
 
 LRU Cache
 Solution
 Medium
+#146 Hash TableLinked ListDesign1+
 
 Binary Tree General
 Maximum Depth of Binary Tree
 Solution
 Easy
+#104 TreeDepth-First SearchBreadth-First Search1+
 
 Same Tree
 Solution
 Easy
+#100 TreeDepth-First SearchBreadth-First Search1+
 
 Invert Binary Tree
 Solution
 Easy
+#226 TreeDepth-First SearchBreadth-First Search1+
 
 Symmetric Tree
 Solution
 Easy
+#101 TreeDepth-First SearchBreadth-First Search1+
 
 Construct Binary Tree from Preorder and Inorder Traversal
 Solution
 Medium
+#105 ArrayHash TableDivide and Conquer2+
 
 Construct Binary Tree from Inorder and Postorder Traversal
 Solution
 Medium
+#106 ArrayHash TableDivide and Conquer2+
 
 Populating Next Right Pointers in Each Node II
 Solution
 Medium
+#117 Linked ListTreeDepth-First Search2+
 
 Flatten Binary Tree to Linked List
 Solution
 Medium
+#114 Linked ListStackTree2+
 
 Path Sum
 Solution
 Easy
+#112 TreeDepth-First SearchBreadth-First Search1+
 
 Sum Root to Leaf Numbers
 Solution
 Medium
+#129 TreeDepth-First SearchBinary Tree
 
 Binary Tree Maximum Path Sum
 Solution
 Hard
+#124 Dynamic ProgrammingTreeDepth-First Search1+
 
 Binary Search Tree Iterator
 Solution
 Medium
+#173 StackTreeDesign3+
 
 Count Complete Tree Nodes
 Solution
 Easy
+#222 Binary SearchBit ManipulationTree1+
 
 Lowest Common Ancestor of a Binary Tree
 Solution
 Medium
+#236 TreeDepth-First SearchBinary Tree
 
 Binary Tree BFS
 Binary Tree Right Side View
 Solution
 Medium
+#199 TreeDepth-First SearchBreadth-First Search1+
 
 Average of Levels in Binary Tree
 Solution
 Easy
+#637 TreeDepth-First SearchBreadth-First Search1+
 
 Binary Tree Level Order Traversal
 Solution
 Medium
+#102 TreeBreadth-First SearchBinary Tree
 
 Binary Tree Zigzag Level Order Traversal
 Solution
 Medium
+#103 TreeBreadth-First SearchBinary Tree
 
 Binary Search Tree
 Minimum Absolute Difference in BST
 Solution
 Easy
+#530 TreeDepth-First SearchBreadth-First Search2+
 
 Kth Smallest Element in a BST
 Solution
 Medium
+#230 TreeDepth-First SearchBinary Search Tree1+
 
 Validate Binary Search Tree
 Solution
 Medium
+#98 TreeDepth-First SearchBinary Search Tree1+
 
 Graph General
 Number of Islands
 Solution
 Medium
+#200 ArrayDepth-First SearchBreadth-First Search2+
 
 Surrounded Regions
 Solution
 Medium
+#130 ArrayDepth-First SearchBreadth-First Search2+
 
 Clone Graph
 Solution
 Medium
+#133 Hash TableDepth-First SearchBreadth-First Search1+
 
 Evaluate Division
 Solution
 Medium
+#399 ArrayDepth-First SearchBreadth-First Search3+
 
 Course Schedule
 Solution
 Medium
+#207 Depth-First SearchBreadth-First SearchGraph1+
 
 Course Schedule II
 Solution
 Medium
+#210 Depth-First SearchBreadth-First SearchGraph1+
 
 Graph BFS
 Snakes and Ladders
 Solution
 Medium
+#909 ArrayBreadth-First SearchMatrix
 
 Minimum Genetic Mutation
 Solution
 Medium
+#433 Hash TableStringBreadth-First Search
 
 Word Ladder
 Solution
 Hard
+#127 Hash TableStringBreadth-First Search
 
 Trie
 Implement Trie (Prefix Tree)
 Solution
 Medium
+#208 Hash TableStringDesign1+
 
 Design Add and Search Words Data Structure
 Solution
 Medium
+#211 StringDepth-First SearchDesign1+
 
 Word Search II
 Solution
 Hard
+#212 ArrayStringBacktracking2+
 
 Backtracking
 Letter Combinations of a Phone Number
 Solution
 Medium
+#17 Hash TableStringBacktracking
 
 Combinations
 Solution
 Medium
+#77 Backtracking
 
 Permutations
 Solution
 Medium
+#46 ArrayBacktracking
 
 Combination Sum
 Solution
 Medium
+#39 ArrayBacktracking
 
 N-Queens II
 Solution
 Hard
+#52 Backtracking
 
 Generate Parentheses
 Solution
 Medium
+#22 StringDynamic ProgrammingBacktracking
 
 Word Search
 Solution
 Medium
+#79 ArrayBacktrackingMatrix
 
 Divide & Conquer
 Convert Sorted Array to Binary Search Tree
 Solution
 Easy
+#108 ArrayDivide and ConquerTree2+
 
 Sort List
 Solution
 Medium
+#148 Linked ListTwo PointersDivide and Conquer2+
 
 Construct Quad Tree
 Solution
 Medium
+#427 ArrayDivide and ConquerTree1+
 
 Merge k Sorted Lists
 Solution
 Hard
+#23 Linked ListDivide and ConquerHeap (Priority Queue)1+
 
 Kadane's Algorithm
 Maximum Subarray
 Solution
 Medium
+#53 ArrayDivide and ConquerDynamic Programming
 
 Maximum Sum Circular Subarray
 Solution
 Medium
+#918 ArrayDivide and ConquerDynamic Programming2+
 
 Binary Search
 Search Insert Position
 Solution
 Easy
+#35 ArrayBinary Search
 
 Search a 2D Matrix
 Solution
 Medium
+#74 ArrayBinary SearchMatrix
 
 Find Peak Element
 Solution
 Medium
+#162 ArrayBinary Search
 
 Search in Rotated Sorted Array
 Solution
 Medium
+#33 ArrayBinary Search
 
 Find First and Last Position of Element in Sorted Array
 Solution
 Medium
+#34 ArrayBinary Search
 
 Find Minimum in Rotated Sorted Array
 Solution
 Medium
+#153 ArrayBinary Search
 
 Median of Two Sorted Arrays
 Solution
 Hard
+#4 ArrayBinary SearchDivide and Conquer
 
 Heap
 Kth Largest Element in an Array
 Solution
 Medium
+#215 ArrayDivide and ConquerSorting2+
 
 IPO
 Solution
 Hard
+#502 ArrayGreedySorting1+
 
 Find K Pairs with Smallest Sums
 Solution
 Medium
+#373 ArrayHeap (Priority Queue)
 
 Find Median from Data Stream
 Solution
 Hard
+#295 Two PointersDesignSorting2+
 
 Bit Manipulation
 Add Binary
 Solution
 Easy
+#67 MathStringBit Manipulation1+
 
 Reverse Bits
 Solution
 Easy
+#190 Divide and ConquerBit Manipulation
 
 Number of 1 Bits
 Solution
 Easy
+#191 Divide and ConquerBit Manipulation
 
 Single Number
 Solution
 Easy
+#136 ArrayBit Manipulation
 
 Single Number II
 Solution
 Medium
+#137 ArrayBit Manipulation
 
 Bitwise AND of Numbers Range
 Solution
 Medium
+#201 Bit Manipulation
 
 Math
 Palindrome Number
 Solution
 Easy
+#9 Math
 
 Plus One
 Solution
 Easy
+#66 ArrayMath
 
 Factorial Trailing Zeroes
 Solution
 Medium
+#172 Math
 
 Sqrt(x)
 Solution
 Easy
+#69 MathBinary Search
 
 Pow(x, n)
 Solution
 Medium
+#50 MathRecursion
 
 Max Points on a Line
 Solution
 Hard
+#149 ArrayHash TableMath1+
 
 1D DP
 Climbing Stairs
 Solution
 Easy
+#70 MathDynamic ProgrammingMemoization
 
 House Robber
 Solution
 Medium
+#198 ArrayDynamic Programming
 
 Word Break
 Solution
 Medium
+#139 ArrayHash TableString3+
 
 Coin Change
 Solution
 Medium
+#322 ArrayDynamic ProgrammingBreadth-First Search
 
 Longest Increasing Subsequence
 Solution
 Medium
+#300 ArrayBinary SearchDynamic Programming
 
 Multidimensional DP
 Triangle
 Solution
 Medium
+#120 ArrayDynamic Programming
 
 Minimum Path Sum
 Solution
 Medium
+#64 ArrayDynamic ProgrammingMatrix
 
 Unique Paths II
 Solution
 Medium
+#63 ArrayDynamic ProgrammingMatrix
 
 Longest Palindromic Substring
 Solution
 Medium
+#5 StringDynamic Programming
 
 Interleaving String
 Solution
 Medium
+#97 StringDynamic Programming
 
 Edit Distance
 Solution
 Medium
+#72 StringDynamic Programming
 
 Best Time to Buy and Sell Stock III
 Solution
 Hard
+#123 ArrayDynamic Programming
 
 Best Time to Buy and Sell Stock IV
 Solution
 Hard
+#188 ArrayDynamic Programming
 
 Maximal Square
 Solution
 Medium
+#221 ArrayDynamic ProgrammingMatrix
